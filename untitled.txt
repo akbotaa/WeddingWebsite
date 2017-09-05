@@ -1,0 +1,18 @@
+#e7bed9
+#e50d78
+#fff7e7  beautiful light gold
+#ececec  lightgrey
+
+
+
+Savoye LET  <---- font
+Snell Roundhand
+Zapfino
+Apple Chancery
+
+
+#F8E6DE
+
+
+https://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/
+https://coolors.co/eedce8-f3e9ef-f4ebf1-f9f6f5-f6f6f6

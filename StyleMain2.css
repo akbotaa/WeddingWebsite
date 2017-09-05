@@ -1,0 +1,82 @@
+body {
+	background-color: #e4cfdc;
+	background-size: cover;
+	background-image: url(img/Untitled.png);
+	background-repeat: no-repeat;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+/*	background-position: center;*/	
+	text-align: center;
+	margin: 0;
+}
+
+div {
+	background-color: white;
+	padding-top: 60px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+ul {
+	display: inline-block;
+	list-style-type: none;
+}
+
+li {
+    float: left;
+	
+}
+
+a {
+    display: block;
+    text-align: center;
+/*    padding-top: 14px;*/
+	padding-right:  40px;
+    text-decoration: none;
+	color: #AE548E;
+	font-size: 15px;
+/*	font-weight: bold;*/
+}
+
+a:hover {
+	color: #EBEBEB;
+}
+
+.activepage {
+	color: #ffe4d5;
+}
+
+/*.frontpage{
+
+	text-align:center;
+	right: 50%;
+	bottom: 60%;
+	transform: translate(50%,50%);
+	position: absolute;
+}*/
+
+/*a[id="mainbutton"] {
+    padding: 12px 12px 12px;
+	color: white;
+	border: 2px solid #EBEBEB;
+	background-color: #D3A2C2;
+	text-decoration: none;
+}*/
+
+/*a[id="mainbutton"]:hover {
+	color: #D3A2C2;
+	background-color: #ffe4d5;
+	border: 2px solid #ffe4d5;
+
+}*/
+
+/*h3 {
+	color: #AE548E;
+	font-size: 50px;
+	font-family: 'Great Vibes', Helvetica, sans-serif;
+	text-shadow: 4px 4px 2px rgba(0,0,0,0.1);
+}*/
+
+/*h4 {
+	color: #ffe4d5;
+	font-size: 15px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}*/
